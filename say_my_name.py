@@ -9,5 +9,6 @@ print(first_name + ' ' + last_name)
 # creating another variable defined with a space at the end of my first name
 first_name2 = 'Abigail '
 
-# using print function again to output my full name
+# using print function again to output my full name using first_name2 instead
 print(first_name2 + last_name)
+print(first_name + last_name)
